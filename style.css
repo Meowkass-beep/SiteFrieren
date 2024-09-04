@@ -30,7 +30,7 @@ body {
 header {
     background-color: #425ca5;
     color: #ffffff;
-    width: 70.8%;
+    width: 70%;
     max-width: 1200px;
     display: flex;
     justify-content: space-between;
